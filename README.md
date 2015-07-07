@@ -7,7 +7,7 @@ This is basically just a small data-generator that you can use to generate a ran
 Simply clone/download this repo and execute ``make``
 
 ###And what about running?
-Execute the following: ``datagen <int|double> <rows> <columns> <offset> <range> <seed> <output-file>``
+Execute the following: ``./datagen <int|double> <rows> <columns> <offset> <range> <seed> <output-file>``
 where the parameters have the following meaning:
 - ``<int|double>``: write ``int`` to generate Integer-data, ``double`` for Double-data
 - ``<rows>``: The number of rows to be generated
