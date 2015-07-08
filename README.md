@@ -15,3 +15,6 @@ where the parameters have the following meaning:
 - ``<offset>`` and ``<range>``: The program will generate data in between ``offset - range`` and ``offset + range``
 - ``<seed>``: The seed to be used for the random data
 - ``<output-file>``: The file where the output-data should be written
+
+###Credits
+- Thanks to Ross Hemsley for his post about creating a nice C loadbar (https://www.ross.click/2011/02/creating-a-progress-bar-in-c-or-any-other-console-app/)
